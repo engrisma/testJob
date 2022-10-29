@@ -1,0 +1,1 @@
+cat buildhtml > index.html
